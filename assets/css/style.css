@@ -1,0 +1,46 @@
+*,h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    padding: 10px;
+}
+
+h2 {
+    margin: auto;
+    text-align: center;
+    width: auto;
+    font-size: 32pt;
+}
+
+#question{
+    margin-bottom: 100px;
+    margin-top: 25px;
+}
+
+#timer {
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    background-color: palevioletred;
+    background-image: url("https://i.redditmedia.com/N_vWAgwV3MSDJbMoDJNzUhnsX2TwiUFeuQYfcDsnQjw.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=960&s=08002ebe5aa7486c7f4b2166489789e9");
+}
+
+#contentBox {
+    /* background-color: white; */
+    width: 600px;
+    margin: auto;
+    padding: 60px;
+    padding-top: 30px;
+}
+
+#startbutton {
+    background-color: white;
+    text-align: center;
+    font-size: 72px;
+    margin: auto;
+    width: 280px;
+    margin-top: 25px;
+}
