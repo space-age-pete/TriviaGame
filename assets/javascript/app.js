@@ -225,7 +225,7 @@ function startTimer() {
 }
 
 function timeOut() {
-    $("#question").text("You ran out of time!");
+    $("#question").text("You've taken too long!   " + questions[currentQuestion].message.text);
     unansweredAnswers++;
     nextQuestion();
 }
